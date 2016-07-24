@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Create", "Create\Create.vcxproj", "{49C1C7DF-EA39-4379-884B-8F65DE5DB640}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "miniUFS", "miniUFS2\miniUFS2.vcxproj", "{F125B3DB-6572-478E-8D40-26861A3997D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C1C7DF-EA39-4379-884B-8F65DE5DB640}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49C1C7DF-EA39-4379-884B-8F65DE5DB640}.Debug|Win32.Build.0 = Debug|Win32
+		{49C1C7DF-EA39-4379-884B-8F65DE5DB640}.Release|Win32.ActiveCfg = Release|Win32
+		{49C1C7DF-EA39-4379-884B-8F65DE5DB640}.Release|Win32.Build.0 = Release|Win32
+		{49C1C7DF-EA39-4379-884B-8F65DE5DB640}.Template|Win32.ActiveCfg = Release|Win32
+		{49C1C7DF-EA39-4379-884B-8F65DE5DB640}.Template|Win32.Build.0 = Release|Win32
+		{F125B3DB-6572-478E-8D40-26861A3997D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F125B3DB-6572-478E-8D40-26861A3997D1}.Debug|Win32.Build.0 = Debug|Win32
+		{F125B3DB-6572-478E-8D40-26861A3997D1}.Release|Win32.ActiveCfg = Release|Win32
+		{F125B3DB-6572-478E-8D40-26861A3997D1}.Release|Win32.Build.0 = Release|Win32
+		{F125B3DB-6572-478E-8D40-26861A3997D1}.Template|Win32.ActiveCfg = Release|Win32
+		{F125B3DB-6572-478E-8D40-26861A3997D1}.Template|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
